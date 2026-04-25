@@ -20,7 +20,7 @@ side branchPositions[NUM_BRANCHES];
 
 int main()
 {
-	// Create a video mode object
+	// Create a video mode object test
 	VideoMode vm(1920, 1080);
 
 	// Create and open a window for the game
